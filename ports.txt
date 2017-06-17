@@ -1,387 +1,400 @@
-Lisbon, Portugal
-Antigua, Antigua & Barbuda
-Lautoka, Fiji
-Santa Cruz De Tenerife, Spain
-Vancouver, British Columbia
-Paris/Normandy (Le Havre), France
-Positano, Italy
-Trieste, Italy
-Glasgow (Greenock), Scotland
-Martinique
-Alotau, Papua New Guinea
-St. Thomas, U.S. Virgin Islands
-Kochi, Japan
-Vigo, Spain (for Santiago de Compostela)
-St. Maarten
-Panama Canal (Scenic Cruising) Panama
-Rome (Civitavecchia), Italy
-Port Douglas, Australia
-Devil's Island (Isle Royale), French Guiana
-Muscat (Mina Qaboos), Oman
-Da Nang/Hue (Chan May),Vietnam
+Victoria, British Columbia
+Hualien, Taiwan
 Cartagena, Spain
-Doini Island, Papua New Guinea
-Akureyri, Iceland
-Rotterdam, The Netherlands
-Mystery Island, Vanuatu
-Katakolon (Olympia), Greece
-Ko Samui, Thailand
-Sicily (Catania), Italy
-Huatulco, Mexico
-Maui (Lahaina), Hawaii
-Edinburgh (South Queensferry), Scotland
-Aalesund, Norway
+Lanzarote (Arrecife), Canary Islands
 Santiago (Valparaiso), Chile
-Newport, Rhode Island
-Pago Pago, American Samoa
-Aqaba (for Petra), Jordan
-Cape Horn (Scenic Cruising)
-Puntarenas, Costa Rica
-Osaka, Japan
-Ljubljana (Koper), Slovenia
-Mytilene, Greece
-Split, Croatia
-Scrabster, Scotland
-Anchorage (Seward), Alaska
-Juneau, Alaska
-Costa Maya (Mahahual), Mexico
-Fremantle, Australia
-College Fjord, Alaska (Scenic Cruising)
-Buenos Aires, Argentina
-Yatsushiro, Japan
-Haugesund, Norway
-Orkney Islands (Kirkwall), Scotland
-Shimizu, Japan
-Ishigaki, Japan
-Savusavu, Fiji
-Dundee, Scotland
-Invergordon, Scotland
-Sicily (Trapani), Italy
-Puerto Chiapas, Mexico
-Azores Islands (Ponta Delgada), Portugal
-Portland, Maine
-Toyama, Japan
-Kumano, Japan
-Corfu, Greece
-Kuala Lumpur (Port Kelang), Malaysia
-Bora Bora, French Polynesia
-Toulon (for Provence), France
-Port Saguenay, Quebec
-Miami, Florida
-Tromso, Norway
-Manila, Philippines
-Athens (Piraeus), Greece
-Monterey, California
-Ft. Lauderdale, Florida
-Puerto Montt, Chile
-Island of Roatan, Honduras
-Wineglass Bay & Oyster Bay (Scenic Cruising), Australia
-St. Petersburg, Russia
-Algarve Coast (Portimao), Portugal
-Napier, New Zealand
-Kimberley Coast, Australia (Scenic Cruising)
-Beijing (Tianjin), China
-Murmansk, Russia
-Port Arthur (Tasmania), Australia
-Singapore
-Cephalonia (Argostoli), Greece
-Ulvik, Norway
-Princess Cays, Bahamas
-Mazatlan, Mexico
-Bergen, Norway
-Otaru, Japan
-Portofino, Italy
-Copenhagen, Denmark
-Crete (Chania), Greece
-Azores Islands (Horta), Portugal
-Akita, Japan
-Incheon, Korea
-Auckland, New Zealand
-Madeira (Funchal), Portugal
-Brussels (Antwerp), Belgium
-Kagoshima, Japan
-Rio de Janeiro, Brazil
-Montevideo, Uruguay
-Korcula, Croatia
-Los Angeles (Long Beach), California
-Easter Island, Chile
-Skagway, Alaska
-Island of Cozumel, Mexico
-Lifou, New Caledonia
-Charlottetown, Prince Edward Island
-Reykjavik, Iceland
-Tauranga, New Zealand
-Flaam, Norway
-Bangkok (Laem Chabang), Thailand
-Shanghai, China
-Aarhus, Denmark
-Mykonos, Greece
-Rabaul, Papua New Guinea
-Trondheim, Norway
-Cross International Date Line
-Newcastle, Australia
-Rhodes, Greece
-Amalia Glacier, Chile (Scenic Cruising)
-Dublin, Ireland
-Puerto Madryn, Argentina
-Guadalcanal (Honiara), Solomon Islands
-Punta Arenas, Chile
-Honolulu, Hawaii
-Marigot, Saint Martin
-Probolinggo, Indonesia
+Trinidad, Trinidad and Tobago
+Grand Cayman, Cayman Islands
 Khios, Greece
-Nha Trang, Vietnam
-St. Lucia
+Helsingor, Denmark
+Ensenada, Mexico
+Kumano, Japan
+Limon, Costa Rica
+Gdansk (Gdynia), Poland
+Salaverry, Peru
+Picton, New Zealand
+La Serena (Coquimbo), Chile
+Ilhabela, Brazil
+Durban, South Africa
+Albany, Australia
+Zadar, Croatia
+Cartagena, Colombia
+Amsterdam, Netherlands
+Raiatea, French Polynesia
+Berlin (Warnemunde), Germany
+Kauai (Nawiliwili), Hawaii
+Puerto Montt, Chile
+Bay of Islands, New Zealand
+Napier, New Zealand
+Kagoshima, Japan
+Los Angeles (Long Beach), California
+Sakata, Japan
+Bordeaux (Le Verdon), France
+Maldives (Male)
 Kiriwina Island, Papua New Guinea
-Semarang, Indonesia
-Kanazawa, Japan
-Catalina Island, California
-Taipei (Keelung), Taiwan
-Monte Carlo, Monaco
-Noumea, New Caledonia
+Adelaide, Australia
+Quebec City, Quebec
+Ho Chi Minh City (Phu My), Vietnam
+Bangkok (Laem Chabang), Thailand
+Valencia, Spain
+Okinawa, Japan
+Tallinn, Estonia
+Ancona, Italy
+Milford Haven, Wales
 Hakodate, Japan
+Noumea, New Caledonia
+Moorea, French Polynesia
+Auckland, New Zealand
+St. Thomas, U.S. Virgin Islands
 Belize City, Belize
+Cape Town, South Africa
+Cork, Ireland (Cobh - For Blarney Castle)
+Reykjavik, Iceland
+Kanmon Straits, Japan
+Valletta, Malta
+London (Southampton), England
+Suva, Fiji
+Melbourne, Australia
+Liverpool, England
+Dubrovnik, Croatia
+Hellesylt, Norway
+La Coruna, Spain (for Santiago de Compostela)
+Devil's Island (Isle Royale), French Guiana
+Korsakov (Yuzhno-Sakhalinsk), Russia
+Nha Trang, Vietnam
+Bequia, Grenadine Islands
+Scrabster, Scotland
+Exmouth, Australia
+Haines, Alaska
+Barcelona, Spain
+Wellington, New Zealand
+Willis Island, Australia
+Puerto Quepos, Costa Rica
+Ravenna, Italy
+Santa Cruz De Tenerife, Spain
+Kanazawa, Japan
+Ishinomaki, Japan
+Taipei (Keelung), Taiwan
+Kimberley Coast, Australia (Scenic Cruising)
+Puerto Vallarta, Mexico
+Loreto, Mexico
+Newport, Rhode Island
+Shetland Islands (Lerwick), Scotland
+Ishigaki, Japan
+Geiranger, Norway
+Puerto Quetzal, Guatemala
+College Fjord, Alaska (Scenic Cruising)
+Cabo San Lucas, Mexico
+Airlie Beach, Australia
+Rio de Janeiro, Brazil
+Dubai, United Arab Emirates
+Burnie (Tasmania), Australia
+Riga, Latvia
+Punta Arenas, Chile
+Monte Carlo, Monaco
+Qaqortoq, Greenland
+Portofino, Italy
+Luderitz, Namibia
+Luganville,  Vanuatu
+Ushuaia (Tierra del Fuego), Argentina
+Bilbao, Spain
+Ocho Rios, Jamaica
+Bergen, Norway
+Vigo, Spain (for Santiago de Compostela)
+Ketchikan, Alaska
+Guadeloupe (Iles des Saintes)
+Honningsvag (North Cape), Norway
+New York City (Manhattan or Brooklyn), New York
+Skjolden/Sognefjord, Norway
+Kuala Lumpur (Port Kelang), Malaysia
+Rome (Civitavecchia), Italy
+Helsinki, Finland
+Split, Croatia
+Salerno, Italy
+Venice, Italy
+Vladivostok, Russia
+Positano, Italy
+Naples, Italy (for Capri & Pompeii)
+Muroran, Japan
+Rabaul, Papua New Guinea
+Alotau, Papua New Guinea
+Santorini, Greece
+Saint John, New Brunswick (for the Bay of Fundy)
+Ljubljana (Koper), Slovenia
+Port Saguenay, Quebec
+Porto Empedocle, Italy
+Natal, Brazil
+Muscat (Mina Qaboos), Oman
+Osaka, Japan
+Nanortalik, Greenland
+Portland, Maine
+Honolulu, Hawaii
+Port Louis, Mauritius
+Busan, South Korea
+Norfolk, Virginia
+Hilo, Hawaii
+Colombo, Sri Lanka
+Katakolon (Olympia), Greece
+Champagne Bay, Vanuatu
+Barbados
+Seville (Cadiz), Spain
+Manila, Philippines
+Madeira (Funchal), Portugal
+Santa Barbara, California
+Mazatlan, Mexico
+Port Douglas, Australia
+Guernsey (St. Peter Port), England
+Mytilene, Greece
+Grand Turk, Turks & Caicos
+Sydney, Nova Scotia
+Cape Horn (Scenic Cruising)
+Glasgow (Greenock), Scotland
+Semarang, Indonesia
+Hakata, Japan
+Longyearbyen (Spitsbergen), Norway
+Anchorage (Whittier), Alaska
+Waterford, Ireland
+Port Vila, Vanuatu
+Crete (Aghios Nikolaos), Greece
+Guayaquil, Ecuador
+Cross International Date Line
+Puerto Chiapas, Mexico
+Dravuni Island, Fiji
+Lisbon, Portugal
+Lima (Callao), Peru
+Suez Canal (Scenic Cruising), Egypt
+Shimizu, Japan
+Sydney, Australia
+Pitcairn Island (Scenic Cruising)
+Fuerte Amador, Panama (for Panama City)
+Buenos Aires, Argentina
+Los Angeles, California
+Kobe, Japan
+Princess Cays, Bahamas
+Kiel Canal, Germany
+San Juan del Sur, Nicaragua
+Dundee, Scotland
+Manta, Ecuador
+Orkney Islands (Kirkwall), Scotland
+Gibraltar, Great Britain
+Virgin Gorda, British Virgin Islands
+Beijing (Tianjin), China
+Astoria, Oregon
+Kristiansand, Norway
+Pago Pago, American Samoa
+Athens (Piraeus), Greece
+Gisborne, New Zealand
+Boston, Massachusetts
+Phillip Island, Australia
+Cai Lan-Halong Bay, Vietnam
+Broome, Australia
+Monterey, California
+Murmansk, Russia
+Siracusa. Italy
+Easter Island, Chile
+Guadeloupe (Point-a-Pitre)
+St. Maarten
+St Pierre et Miquelon, French Overseas Territory
+Bora Bora, French Polynesia
+Grundarfjordur, Iceland
+Seychelles Islands (Mahe)
+Amalia Glacier, Chile (Scenic Cruising)
+Saint Helena, Great Britain
+Crete (Chania), Greece
+Walvis Bay, Namibia
+Kota Kinabalu, Malaysia
 Tracy Arm Fjord, Alaska (Scenic Cruising)
+Sakaiminato, Japan
+Akureyri, Iceland
+Fortaleza, Brazil
+Shiretoko Peninsula (Scenic Cruising), Japan
+Lifou, New Caledonia
+Kona, Hawaii
+Dominica
+Savusavu, Fiji
+Mare, New Caledonia
+San Francisco, California
+Copenhagen, Denmark
+Moreton Island, Australia
+Stavanger, Norway
+St. Lucia
+Gaspe, Quebec
+St. Petersburg, Russia
+Maui (Lahaina), Hawaii
+St. Vincent, St. Vincent & the Grenadines
+Kotor, Montenegro
+Sicily (Palermo), Italy
+Aomori, Japan
+Hamburg, Germany (for Berlin)
+Charlottetown, Prince Edward Island
+Glacier Bay National Park, Alaska (Scenic Cruising)
+Tokushima, Japan
+Flaam, Norway
+Esperance, Australia
+Toba, Japan
+Apia, Western Samoa
+Pisco (San Martin), Peru
+Kaohsiung, Taiwan
+Rhodes, Greece
+Puerto Madryn, Argentina
+Iwakuni, Japan
+Kushiro, Japan
+Grenada
+Ko Samui, Thailand
+Tortola, British Virgin Islands
+Doini Island, Papua New Guinea
+Salvador, Brazil
+Aarhus, Denmark
+Eidfjord, Norway
+Cephalonia (Argostoli), Greece
+Brussels (Antwerp), Belgium
+Isle of Pines, New Caledonia
+Ft. Lauderdale, Florida
+Haugesund, Norway
+Stockholm (Nynashamn), Sweden
+Santa Marta, Colombia
+Vancouver, British Columbia
+Gran Canaria (Las Palmas), Canary Islands
+Helsingborg, Sweden
+Nice, France
+Kawanasausau Strait & Milne Bay, Papua New Guinea
+Seattle, Washington
+Nanaimo, British Columbia
+Kochi, Japan
+Oslo, Norway
+Penang, Malaysia
+Cozumel, Mexico
+Port Arthur (Tasmania), Australia
+Seydisfjordur, Iceland
+Key West, United States
+Marseille (Provence), France
+St. John's, Newfoundland
+Shanghai, China
+Huatulco, Mexico
+Montevideo, Uruguay
+Pointe des Galets, Reunion Island
+Toulon (for Provence), France
+Miyazaki (Aburatsu), Japan
+Florence/Pisa (Livorno), Italy
+Corfu, Greece
+Komodo Island, Indonesia
+Tauranga, New Zealand
+Aruba
+Incheon, Korea
+San Juan, Puerto Rico
+Hiroshima, Japan
+Akaroa, New Zealand
+Toyama, Japan
+Corsica (Ajaccio), France
+Curacao
+Miami, Florida
+Ceuta (Spanish Morocco), Spain
+Gravdal (Lofoten Islands), Norway
+Azores Islands (Horta), Portugal
+Falmouth, Jamaica
 Puerto Chacabuco, Chile
 Bonaire, Caribbean Netherlands
-Komodo Island, Indonesia
-Langkawi, Malaysia
-Virgin Gorda, British Virgin Islands
-Rijeka, Croatia
-Mare, New Caledonia
-Nice, France
-Helsinki, Finland
-Lombok, Indonesia
-Halifax, Nova Scotia
-Cartagena, Colombia
-Hiroshima, Japan
-Gisborne, New Zealand
-Hobart (Tasmania), Australia
-Manzanillo, Mexico
-Guayaquil, Ecuador
-Valencia, Spain
-Shiretoko Peninsula (Scenic Cruising), Japan
-Santa Marta, Colombia
-Grand Cayman, Cayman Islands
-Oban, Scotland
-Fuerte Amador, Panama (for Panama City)
-San Diego, California
-Albany, Australia
-Nagoya, Japan
-Korsakov (Yuzhno-Sakhalinsk), Russia
-Falmouth, Jamaica
-Los Angeles, California
-Airlie Beach, Australia
-Kushiro, Japan
-London (Dover), England
-Pitcairn Island (Scenic Cruising)
-Ishinomaki, Japan
-Willis Island, Australia
-Sibenik, Croatia
-Ujung Pandang, Indonesia
-St Pierre et Miquelon, French Overseas Territory
-Lima (Callao), Peru
-Victoria, British Columbia
-Barcelona, Spain
-San Francisco, California
-Geraldton, Australia
-Bermuda (Hamilton)
-Bali (Benoa), Indonesia
-Champagne Bay, Vanuatu
-Cochin, India
-Hubbard Glacier, Alaska (Scenic Cruising)
-Key West, United States
-Ho Chi Minh City (Phu My), Vietnam
-Olden, Norway
-Honningsvag (North Cape), Norway
-Apia, Western Samoa
-Hilo, Hawaii
-Picton, New Zealand
-Sete (for Carcassonne), France
-Seydisfjordur, Iceland
-Tokyo (Yokohama), Japan
-Lanzarote (Arrecife), Canary Islands
-Riga, Latvia
-Kawanasausau Strait & Milne Bay, Papua New Guinea
-Berlin (Warnemunde), Germany
-Porto Empedocle, Italy
-San Juan del Sur, Nicaragua
-Adelaide, Australia
-Acajutla, El Salvador
-Yorkey's Knob, Australia
-Amsterdam, Netherlands
-Amber Cove, Dominican Republic
-Gunkanjima (Hashima Island Scenic Cruising), Japan
-Ensenada, Mexico
-Stockholm, Sweden
-Skjolden/Sognefjord, Norway
-Raiatea, French Polynesia
-Milford Haven, Wales
-Tahiti (Papeete), French Polynesia
-Kanmon Straits, Japan
-Astoria, Oregon
-Cai Lan-Halong Bay, Vietnam
-Darwin, Australia
-Cairns, Australia
-Saint John, New Brunswick (for the Bay of Fundy)
-Mallorca (Palma), Spain
-Hong Kong, China
-Limon, Costa Rica
-Tsuruga, Japan
-Vila, Vanuatu
-Nanortalik, Greenland
-Corner Brook, Newfoundland
-Glacier Bay National Park, Alaska (Scenic Cruising)
-Abashiri, Japan
-Marseille (Provence), France
-Fiordland National Park (Scenic Cruising)
-Gaspe, Quebec
-St Helier, United Kingdom
-La Paz, Mexico
-Shetland Islands (Lerwick), Scotland
-Hellesylt, Norway
-Zadar, Croatia
-Seville (Cadiz), Spain
-Akaroa, New Zealand
-Hualien, Taiwan
-Salaverry, Peru
-Kotor, Montenegro
-Eidfjord, Norway
-Colombo, Sri Lanka
-St. Vincent, St. Vincent & the Grenadines
-Sydney, Australia
-Suva, Fiji
-Margaret River, Australia
-Grundarfjordur, Iceland
-Trinidad, Trinidad and Tobago
-Londonderry, United Kingdom
-Dominica
-Mumbai, India
-Phillip Island, Australia
-Sihanoukville, Cambodia
-Ilhabela, Brazil
-Grand Turk, Turks & Caicos
-Dunedin (Port Chalmers), New Zealand
-Nevis, St. Kitts & Nevis
-Sakata, Japan
-New York City (Manhattan or Brooklyn), New York
-Kristiansand, Norway
-Genoa, Italy
-Guernsey (St. Peter Port), England
-Kauai (Nawiliwili), Hawaii
-Loreto, Mexico
-Longyearbyen (Spitsbergen), Norway
-Barbados
-Santorini, Greece
-Port Denarau, Fiji
-Cork, Ireland (Cobh - For Blarney Castle)
-Stockholm (Nynashamn), Sweden
-Gdansk (Gdynia), Poland
-Cornwall (Falmouth), England
-Gibraltar, Great Britain
-Nanaimo, British Columbia
-Quebec City, Quebec
-Grenada
-Gravdal (Lofoten Islands), Norway
-Tokushima, Japan
-Icy Strait Point, Alaska
-Helsingborg, Sweden
-Toba, Japan
-Crete (Aghios Nikolaos), Greece
-Busan, South Korea
-Puerto Vallarta, Mexico
-Ancona, Italy
-Kitava, Papua New Guinea
-Aomori, Japan
-Suez Canal (Scenic Cruising), Egypt
-Liverpool, England
-Phuket, Thailand
-Vladivostok, Russia
-Sicily (Palermo), Italy
-Bay of Islands, New Zealand
-Kobe, Japan
-Moorea, French Polynesia
-Valletta, Malta
-Salerno, Italy
-Charleston, South Carolina
-Luganville,  Vanuatu
-Esperance, Australia
-San Juan, Puerto Rico
-Crete (Heraklion), Greece
-Curacao
-Isle of Pines, New Caledonia
-Ceuta (Spanish Morocco), Spain
-Ketchikan, Alaska
-Brussels/Bruges (Zeebrugge), Belgium
-Ravenna, Italy
-Ushuaia (Tierra del Fuego), Argentina
-St. John's, Newfoundland
-Yokkaichi, Japan
-Tobago (Scarborough), Trinidad and Tobago
-Norfolk, Virginia
-Penang, Malaysia
-Okinawa, Japan
-La Coruna, Spain (for Santiago de Compostela)
-Florence/Pisa (Livorno), Italy
-Boston, Massachusetts
-London (Southampton), England
-Wellington, New Zealand
-Exmouth, Australia
-St. Kitts, St. Kitts & Nevis
-Kona, Hawaii
-Melbourne, Australia
-Puerto Quetzal, Guatemala
-Oslo, Norway
-Cherbourg, France
-Japan Inland Sea (Scenic Cruising), Japan
-Hamburg, Germany (for Berlin)
-Fortaleza, Brazil
-Venice, Italy
-Brisbane, Australia
-Kaohsiung, Taiwan
-Dubai, United Arab Emirates
-Anchorage (Whittier), Alaska
-Bermuda (West End)
-Naples, Italy (for Capri & Pompeii)
-Manta, Ecuador
-Kiel Canal, Germany
-Xiamen, China
-Haines, Alaska
-Tallinn, Estonia
-Kota Kinabalu, Malaysia
-Bordeaux (Le Verdon), France
-Port Lincoln, Australia
-Corsica (Ajaccio), France
-Dubrovnik, Croatia
-Isafjordur, Iceland
-Aruba
-Miyazaki (Aburatsu), Japan
 Kangaroo Island, Australia
-Muroran, Japan
-Santa Barbara, California
-Sakaiminato, Japan
-Gran Canaria (Las Palmas), Canary Islands
-Qaqortoq, Greenland
-Stavanger, Norway
-Falkland Islands (Stanley)
-Nassau, Bahamas
-Geiranger, Norway
-Edinburgh (Rosyth), Scotland
-Sicily (Messina), Italy
-Cabo San Lucas, Mexico
-Nagasaki, Japan
-Colon, Panama
-Abu Dhabi,United Arab Emirates
-Sydney, Nova Scotia
+Phuket, Thailand
+Lautoka, Fiji
+San Diego, California
+Wineglass Bay & Oyster Bay (Scenic Cruising), Australia
+Mystery Island, Vanuatu
+Catalina Island, California
+Stockholm, Sweden
+Manzanillo, Mexico
+Corner Brook, Newfoundland
+Dunedin (Port Chalmers), New Zealand
+Kitava, Papua New Guinea
+Huahine, Polynesia
+Sete (for Carcassonne), France
+Bali (Benoa), Indonesia
+Probolinggo, Indonesia
+Sibenik, Croatia
+Sihanoukville, Cambodia
+Tahiti (Papeete), French Polynesia
 Belfast, Northern Ireland
+Aqaba (for Petra), Jordan
+Aalesund, Norway
+Isafjordur, Iceland
+Olden, Norway
+Cherbourg, France
+Cairns, Australia
+Ujung Pandang, Indonesia
+Guadalcanal (Honiara), Solomon Islands
+Charleston, South Carolina
+Juneau, Alaska
+Icy Strait Point, Alaska
+Brisbane, Australia
+St Helier, United Kingdom
+Xiamen, China
+Brussels/Bruges (Zeebrugge), Belgium
+Geraldton, Australia
+Yorkey's Knob, Australia
+Mumbai, India
+Martinique
+Colon, Panama
+Hobart (Tasmania), Australia
+La Paz, Mexico
+Hubbard Glacier, Alaska (Scenic Cruising)
+Da Nang/Hue (Chan May),Vietnam
+Edinburgh (Rosyth), Scotland
+Fiordland National Park (Scenic Cruising)
+Halifax, Nova Scotia
+Invergordon, Scotland
+Akita, Japan
+St. Kitts, St. Kitts & Nevis
+St. Barthelemy
+Korcula, Croatia
+Crete (Heraklion), Greece
+Margaret River, Australia
 Bar Harbor, Maine
-Hakata, Japan
-Broome, Australia
-Dravuni Island, Fiji
-Bilbao, Spain
-La Serena (Coquimbo), Chile
-Pisco (San Martin), Peru
-Seattle, Washington
-Burnie (Tasmania), Australia
-Iwakuni, Japan
-Siracusa. Italy
+Otaru, Japan
+Sicily (Catania), Italy
+Nuku'alofa, Tonga
+Nagoya, Japan
+Mykonos, Greece
+Kodiak, Alaska
+Bermuda (West End)
+Azores Islands (Ponta Delgada), Portugal
+Gunkanjima (Hashima Island Scenic Cruising), Japan
+Hong Kong, China
+Trondheim, Norway
+Lombok, Indonesia
+Stewart Isand, New Zealand
+Antigua, Antigua & Barbuda
+Darwin, Australia
+Rijeka, Croatia
+Mallorca (Palma), Spain
+Nosy Be, Madagascar
+Yatsushiro, Japan
+Abu Dhabi,United Arab Emirates
+Fremantle, Australia
+Tobago (Scarborough), Trinidad and Tobago
+Panama Canal (Scenic Cruising) Panama
+Langkawi, Malaysia
+Tromso, Norway
+London (Dover), England
+Edinburgh (South Queensferry), Scotland
+East London, South Africa
+Puntarenas, Costa Rica
+Tsuruga, Japan
+Dublin, Ireland
+Bermuda (Hamilton)
+Roatan, Honduras
+Paris/Normandy (Le Havre), France
+Falkland Islands (Stanley)
+Sicily (Messina), Italy
+Rotterdam, The Netherlands
+Nagasaki, Japan
+Yokkaichi, Japan
+Port Lincoln, Australia
+Oban, Scotland
+Newcastle, Australia
+Skagway, Alaska
+Genoa, Italy
+Tokyo (Yokohama), Japan
+Singapore
+Guam, Mariana Islands
+Amber Cove, Dominican Republic
+Cochin, India
