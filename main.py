@@ -8,7 +8,7 @@ from multiprocessing.dummy import Pool as ThreadPool
 
 session = requests.session()
 print(session.cookies.get_dict())
-test_url = 'http://www.princess.com/find/json/getJsonProducts.do'
+test_url = 'https://www.princess.com/find/json/getJsonProducts.do'
 h = session.get(test_url)
 cookie = session.cookies.get_dict()
 ports_set = set()
@@ -40,13 +40,13 @@ headers = {
     'Accept': '*/*',
     'Accept-Language': 'bg-BG,bg;q=0.8,ru;q=0.6,en;q=0.4',
     'Accept-Encoding': 'gzip, deflate',
-    "Referer": "http://www.princess.com/find/searchResults.do",
+    "Referer": "https://www.princess.com/find/searchResults.do",
     'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
     'X-Requested-With': 'XMLHttpRequest',
     'Content-Length': '776',
-    'Cookie': '_aeu=QCQ=; _aes=QSE=; dl.VoyageCode=0:; EG-U-ID=D39cdf9a7c-1a7a-4cd2-8c3a-4f477f5428c2; uk_ok=true; interceptSurvey=https%3A%2F%2Fwidget.surveymonkey.com%2Fcollect%2Fwebsite%2Fjs%2F0PEj8gPtp1tHlkeR14xVkrlohw3un4wE4qCksVKdhMg5IyLQPOoqrkgIpizljgjd.js%2C; visitNumTemp=3; targetVoyageIDTemp=E830; JSESSIONID=00006Oncm2yu23ombViJIqLK-OT:13ehlrk2j; IBMID=6Oncm2yu23ombViJIqLK-OT:1; _fipc_=bg; _fipz_=1000; loc=SH3HZ63UPZQNVLEJWSLBV33V6IOUCWXN6W2AJZNHBEJITNUJ7WC5BVEM7FXBROJJ2HPRPQPIYQHKVFQW3MAW3VSIAZWR7A3O4MTBKKQ; ak_bmsc=22B282FBA5B9CB3996546C16B66F3AC56867493C1726000014E54459898DFE4A~plsxBa8Y0RHSZPvTC4ts57v4Y2ismRgOFyogHmPfsfRIvqlUxv4AHYJUzqJ+4qMfPXnOcIthnJ3DvbUa9VU19W0zTbDCVgPrxA+esa1aWJTmRn8pq0f9HCfAeFQ08UWaFSObfHgdmwUiYYS66iklE+/z4aDlpdjFfKA010dfS/ABBMinByvb/e+ntUObOEFiAsSsSaUYS7fjpELha628mUcszyicpKZqS/MDLtSWJ39l4=; COOKIE_CHECK=YES; AMCVS_21C91F2F575539D07F000101%40AdobeOrg=1; AMCV_21C91F2F575539D07F000101%40AdobeOrg=2121618341%7CMCIDTS%7C17335%7CMCMID%7C76187253285752916570250019028700157856%7CMCAAMLH-1498292117%7C6%7CMCAAMB-1498292117%7CNRX38WO0n5BH8Th-nqAG_A%7CMCOPTOUT-1497694517s%7CNONE%7CMCAID%7CNONE; mbox=PC#ae0f867969504659833a43c0ee5c23ca.26_28#1498896918|check#true#1497687378|session#841f1bbf49b944c09c864201ed321624#1497689178; persistValue=null; _fby_site_=1%7Cprincess.com%7C1492815663%7C1496604194%7C1497687319%7C1497687319%7C8%7C1%7C17; getLocale=%7B%22specialOffers%22%3A%22false%22%2C%22status%22%3A%22%22%2C%22primaryCurrency%22%3A%22USD%22%2C%22country%22%3A%22BG%22%2C%22countryPhone%22%3A%22%22%2C%22isEU%22%3A%22true%22%2C%22brochures%22%3A%22false%22%2C%22lastUpdated%22%3A1497687317309%7D; s_dfa=crbrprincessprodus%2Ccrbrcarnivalbrandsprodus; _ga=GA1.2.1889899752.1492815660; _gid=GA1.2.634996634.1497687322; _dc_gtm_UA-4086206-54=1; _dl.event-cache=303270276:null; booking_engine_used=PCDIR; search_counter=1; __utmt_princess=1; __utmt=1; __utma=169354720.1889899752.1492815660.1496604192.1497687322.8; __utmb=169354720.2.10.1497687322; __utmc=169354720; __utmz=169354720.1492815660.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); s_vnum=1498856400437%26vn%3D4; targetVoyageIDValue=E830; s_cc=true; _ceg.s=oromxl; _ceg.u=oromxl; at_carnivalbrands=segments%3D5618972%2C5620308%2C5554399; edge_check=anyone%3Dtrue%2Cvisitor%3Dcheck; aam_analytics=segment%3D5554399%3A6549020; aam_uuid=75738460052935990210277161013492318084; __atuvc=0%7C20%2C0%7C21%2C0%7C22%2C12%7C23%2C1%7C24; __atuvs=5944e517344ca78c000; s_ppn=pcl%3Acruise_shopping%3Asearch_results; s_nr=1497687332682-Repeat; gds=1497687332683; gds_s=More%20than%207%20days; s_invisit=true',
+    'Cookie': 'offloadcookie=!Ps6hfIfcNVCmvIdLdPzhjVsVx7XQ8qRAOGMsDEFgLDiJv3kwSNQSdfPLs4mij8EM09HhM1saYP9fRZM=; COOKIE_CHECK=YES; AMCVS_21C91F2F575539D07F000101%40AdobeOrg=1; _fipc_=BG; _fipz_=1000; s_vnum=1504213200133%26vn%3D2; uk_ok=true; NAME_ON_TOP_BANNER=QQASHS6ZKEYF7E4DDWY5BHOS6U; fn=EFXKTFJHNQRA2; ln=3CMW5EWYLAFGNEIM4BBWZC6PDM; ei=HHVFMIWWLTRQEYCKBFIETIHA3PIYMOAP7NHJ5RI; db=MLPHT3TY3GN6LUMGHAH7WTU6YU; pei=HHVFMIWWLTRQEYCKBFIETIHA3PIYMOAP7NHJ5RI; pccn=TQXMSYUUE7GZO75B3X57DRUXP4; puc=WMNDKF77W73SS; pnotp=QQASHS6ZKEYF7E4DDWY5BHOS6U; pzip=AWG5BZAF4ILVSX3BAHL3MW4NOQ; ui=VC65VVTWRCJ5C; loc=SH3HZ63UPZQNUOGZLJQKLURWZXP5H7T23XDKUJMEFC6RIPBRURTLN7CSEHMY4HDY2TGAL2FXJRT7OOTMGZOFF6IIPI2CE3E5MNY2I6JHM6DVPUSFW2IQ; pcl_guestInfo=%7B%22guestStatus%22%3A%22Past+Passenger%22%2C%22loyaltyTier%22%3A%22Gold%22%2C%22futureBooked%22%3A%22N%22%2C%22ccn%22%3A%22TQXMSYUUE7GZO75B3X57DRUXP4%22%2C%22lastUpdated%22%3A1503838132%7D; pcl_guestInfoStatus=1503838132; visitorProfileId=-8264403267738908353; getLocale=%7B%22specialOffers%22%3A%22true%22%2C%22status%22%3A%22US%22%2C%22primaryCurrency%22%3A%22USD%22%2C%22country%22%3A%22US%22%2C%22countryPhone%22%3A%221-800-774-6237%22%2C%22isEU%22%3A%22false%22%2C%22brochures%22%3A%22true%22%2C%22lastUpdated%22%3A1503838135173%7D; AMCV_21C91F2F575539D07F000101%40AdobeOrg=2121618341%7CMCIDTS%7C17406%7CMCMID%7C02428309103296760484164004142001208921%7CMCAAMLH-1504302643%7C6%7CMCAAMB-1504442936%7CNRX38WO0n5BH8Th-nqAG_A%7CMCOPTOUT-1503845223s%7CNONE%7CMCAID%7CNONE%7CMCCIDH%7C-2095126571; JSESSIONID=0000PZqIbSDFstZB7R8FxFBNrEs:181iirlm0; IBMID=PZqIbSDFstZB7R8FxFBNrEs:1; mf_record_user=1; ak_bmsc=276A2BB22E0535A659CEE50922D3121FB81A2C42EB3E0000FFBFA25970822E47~pl1NteHmN/yHvjwBhknWOtExEn/xfI+6ye8R1fL/zR1qo7H8wXiKxHeIJXgdZMBIFvCejdK9ohRsTJtdUmYToK4qukrDb7ds89JwHgCa10FkMi/SC7d/KUhF/5yYfTvgxnWtEZ2zOR0+S6M1x1aO5TbXcOuyAGAQOZHUffYYIQfYWGMUK+vi8yZQf4pSggec/FpyDEqZXYdknaktHPRhaiCX88szENhHiDG6IPJ7jn490=; s_sq=%5B%5BB%5D%5D; ADRUM=s=1503838789258&r=https%3A%2F%2Fwww.princess.com%2Ffind%2FsearchResults.do%3F0; mbox=PC#2cec9f0afc224c4b8fe4efe468c64738.17_28#1505048393|session#f5a0cb7eaa214ae184ba18a489758668#1503840653|check#true#1503838853; _ga=GA1.2.888571754.1503697849; _gid=GA1.2.601397374.1503838025; sccn=TQXMSYUUE7GZO75B3X57DRUXP4; persistValue=null; savedCruises=%7B%22count%22%3A0%7D; s_dfa=crbrprincessprodus%2Ccrbrcarnivalbrandsprodus; s_ppn=pcl%3Acruise_shopping%3Asearch_results; s_nr=1503838795794-Repeat; gds=1503838795794; gds_s=Less%20than%207%20days; s_invisit=true; s_cc=true; _fby_site_=1%7Cprincess.com%7C1503697846%7C1503697846%7C1503838025%7C1503838796%7C2%7C6%7C9; at_carnivalbrands=segments%3D5554399%2C7189449; aam_analytics=segment%3D5554399; edge_check=anyone%3Dtrue%2Cvisitor%3Dcheck; aam_uuid=02877113354717944844136856659651040893; __atuvc=3%7C34%2C6%7C35; __atuvs=59a2bf486848c9c4005; mf_user=c9f64f65c14acaec9aaf10417975d181|; mf_f3a02463-b43f-48da-9dcb-90e7d2f103b1=32c74dc7dc4dac8bbc33854b4370220e|08275398ede83008c756e750099a70bffd8f194c|1503839046097||3|||0',
     'Connection': 'keep-alive',
-    'Origin': 'http://www.princess.com',
+    'Origin': 'https://www.princess.com',
     'ADRUM': 'isAjax:true'
 
 }
@@ -65,13 +65,13 @@ test_headers = {
     'Pragma': 'no-cache',
     'Cache-Control': 'no-cache'
 }
-url = "http://www.princess.com/find/json/getJsonProducts.do?"
+url = "https://www.princess.com/find/json/getJsonProducts.do?"
 page = session.get(url)
 missed = []
 cruise_data = page.json()
 for key, value in cruise_data['data'].items():
     cruises.append([key, value['I'], value['M']])
-url = 'http://www.princess.com/find/pagination.do'
+url = 'https://www.princess.com/find/pagination.do'
 page = session.post(url, data=body, headers=headers)
 soup = BeautifulSoup(page.text, 'lxml')
 price_url = ''
@@ -144,7 +144,7 @@ def parse(i):
         ports_set.add(port.text.strip())
     title = i.find('a')
     brochure_name = title.text
-    url = 'http://www.princess.com/find/viewAllCruises.do'
+    url = 'https://www.princess.com/find/viewAllCruises.do'
     data = 'searchCriteria.subTrades%5B0%5D=&searchCriteria.sortBy=L&searchCriteria.versionB=false&searchCriteria.startDateRange=&searchCriteria.endDateRange=&searchCriteria.searchKey=b182db8c-1bbc-4cdf-92a7-be23ce97b87b&searchCriteria.meta=I&searchCriteria.pastPax=false&searchCriteria.noOfPax=2&searchCriteria.cruiseTour=false&searchCriteria.itineraryCode=' + itin_id + '&searchCriteria.voyageCode=&searchCriteria.tourCode=&searchCriteria.startIndex=30&searchCriteria.endIndex=40&searchCriteria.positionIndex=0&pageName=searchresult&ubeData.ubeId=PCDIR&searchCriteria.currency=USD&searchCriteria.countryForPrice=US&searchCriteria.cruiseDetail=false&searchCriteria.shipVersion=&searchCriteria.webDisplay=Y&searchCriteria.applyCoupon=true&searchCriteria.ocean=&searchCriteria.newVersion=false'
     prices_page = session.post(url, data=data, headers=headers)
     info = BeautifulSoup(prices_page.text, 'lxml')
@@ -183,7 +183,7 @@ def parse(i):
         number_of_nights = days
         itin_id = ''
         if 'Cross International Date Line' in ports:
-            detail_url = 'http://www.princess.com/find/displayItineraryDetails.do'
+            detail_url = 'https://www.princess.com/find/displayItineraryDetails.do'
             details_body = 'searchCriteria.voyageCode=' + code + ''
             detail_page = session.post(url=detail_url, headers=headers, data=details_body).text
             detail_soup = BeautifulSoup(detail_page, 'lxml')
@@ -210,7 +210,7 @@ print('Excepions', len(cruises))
 for cr in cruises:
     cruise_line_name = "Princess Cruises"
     vessel_id = ''
-    url = 'http://www.princess.com/find/viewAllCruises.do'
+    url = 'https://www.princess.com/find/viewAllCruises.do'
     data = 'searchCriteria.subTrades%5B0%5D=&searchCriteria.sortBy=L&searchCriteria.versionB=false&searchCriteria.startDateRange=&searchCriteria.endDateRange=&searchCriteria.searchKey=b182db8c-1bbc-4cdf-92a7-be23ce97b87b&searchCriteria.meta=I&searchCriteria.pastPax=false&searchCriteria.noOfPax=2&searchCriteria.cruiseTour=false&searchCriteria.itineraryCode=' + \
            cr[
                0] + '&searchCriteria.voyageCode=&searchCriteria.tourCode=&searchCriteria.startIndex=30&searchCriteria.endIndex=40&searchCriteria.positionIndex=0&pageName=searchresult&ubeData.ubeId=PCDIR&searchCriteria.currency=USD&searchCriteria.countryForPrice=US&searchCriteria.cruiseDetail=false&searchCriteria.shipVersion=&searchCriteria.webDisplay=Y&searchCriteria.applyCoupon=true&searchCriteria.ocean=&searchCriteria.newVersion=false'
@@ -244,7 +244,7 @@ for cr in cruises:
             oceanview = sail[3].split('.')[0].replace('$', '').replace(',', '').replace('Sold Out', 'N/A')
             balcony = sail[4].split('.')[0].replace('$', '').replace(',', '').replace('Sold Out', 'N/A')
             suite = sail[5].split('.')[0].replace('$', '').replace(',', '').replace('Sold Out', 'N/A')
-            detail_url = 'http://www.princess.com/find/displayItineraryDetails.do'
+            detail_url = 'https://www.princess.com/find/displayItineraryDetails.do'
             details_body = 'searchCriteria.voyageCode=' + sail[6] + ''
             detail_page = session.post(url=detail_url, headers=headers, data=details_body).text
             detail_soup = BeautifulSoup(detail_page, 'lxml')
