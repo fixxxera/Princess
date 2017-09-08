@@ -58,7 +58,7 @@ test_headers = {
 def fix_header():
     chrome_options = Options()
     chrome_options.add_argument('"--headless"')
-    browser = webdriver.Chrome(executable_path=os.path.abspath('C:\Program Files\Python36\chromedriver'),
+    browser = webdriver.Chrome(executable_path=os.path.abspath('/usr/bin/chromedriver'),
                                chrome_options=chrome_options)
     browser.get('https://www.princess.com/find/searchResults.do')
     browser.find_element_by_xpath("//*[@class='expand-table view-all-link util-link plain-text-btn gotham-bold']")
