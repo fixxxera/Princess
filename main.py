@@ -6,34 +6,22 @@ import xlsxwriter
 from bs4 import BeautifulSoup
 from multiprocessing.dummy import Pool as ThreadPool
 
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.chrome.options import Options
+
 session = requests.session()
-print(session.cookies.get_dict())
 test_url = 'https://www.princess.com/find/json/getJsonProducts.do'
 h = session.get(test_url)
 cookie = session.cookies.get_dict()
 ports_set = set()
-print(h.headers)
-# headers = {
-#     'Host': 'www.princess.com',
-#     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
-#     'Accept': '*/*',
-#     'Accept-Language': 'bg-BG,bg;q=0.8,ru;q=0.6,en;q=0.4',
-#     'Accept-Encoding': 'gzip, deflate',
-#     "Referer": "http://www.princess.com/find/searchResults.do",
-#     'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-#     'X-Requested-With': 'XMLHttpRequest',
-#     'Content-Length': '776',
-#     "Cookie": "_aeu=QCQ=; _aes=QSE=; dl.VoyageCode=0:; getLocale=%7B%22specialOffers%22%3A%22false%22%2C%22status%22%3A%22%22%2C%22primaryCurrency%22%3A%22USD%22%2C%22country%22%3A%22BG%22%2C%22countryPhone%22%3A%22%22%2C%22isEU%22%3A%22true%22%2C%22brochures%22%3A%22false%22%2C%22lastUpdated%22%3A1487698256566%7D; _aeu=QCQ=; uk_ok=true; JSESSIONID=" +
-#               cookie['JSESSIONID'] + "; _fipc_=US; loc=" + cookie[
-#                   'loc'] + "; ak_bmsc=518181399E7438AC1DC1428EFB0426A55C7AD525931E000071EDAC582D97CE49~plXog1ZCtAlVzF6i1DIivuXk+Qdj1iYQTJ+fVG+e9vmqPwTO8TI5uQW9Pz0G49NTPeYLrz4c2lBszS5P8x5lVU9SSqWrI85jN9VR0DakaIDKztTXo6/hGhMuOxYcMOSqSVOuL4xEH5atAmO8SDtEFNLOI8VhAHZQ7yCNTdB6PbJyGlC148ieos0ccMegH81Ct3PGHk7JKA+u9dUFa4hZbH9BkoGmq31ejPyWsnDud9jCg=; COOKIE_CHECK=YES; booking_engine_used=PCDIR; search_counter=1; __utmt_princess=1; __utmt=1; _dc_gtm_UA-4086206-54=1; EG-S-ID=A413e4a93c-321c-4fc6-8e05-5275c4ceed2e; EG-U-ID=A7f20e6cbf-6769-4cc3-a6e3-2574c50824b9; _ga=GA1.2.1000495142.1487698257; spo=2QRFD3E7SBIWZUMGHAH7WTU6YU; _fby_site_=1%7Cprincess.com%7C1487727989%7C1487727989%7C1487727989%7C1487727989%7C1%7C1%7C1; _gat_UA-4086206-54=1; AMCVS_21C91F2F575539D07F000101%40AdobeOrg=1; AMCV_21C91F2F575539D07F000101%40AdobeOrg=2121618341%7CMCIDTS%7C17219%7CMCMID%7C45019628955626001270446066839249503603%7CMCAAMLH-1488303056%7C6%7CMCAAMB-1488332791%7CNRX38WO0n5BH8Th-nqAG_A%7CMCOPTOUT-1487735191s%7CNONE%7CMCAID%7CNONE; s_vnum=1488319200028%26vn%3D3; s_cc=true; edge_check=visitor%3Dprincess%2Canyone%3Dtrue%2Cvisitor%3Dcheck; at_carnivalbrands=segments%3D5554399; aam_uuid=45291411661163250190472928465419857239; _dl.event-cache=303270276:null; mbox=PC#1d8c575a12c940008cb69e668a969ade.26_18#1488937592|check#true#1487728052|session#5b9f9d2e459e40939028d9b37098e384#1487729852; persistValue=null; __utma=169354720.1000495142.1487698257.1487703940.1487727986.3; __utmb=169354720.5.9.1487727992118; __utmc=169354720; __utmz=169354720.1487698257.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); s_dfa=crbrprincessprodus%2Ccrbrcarnivalbrandsprodus; s_sq=crbrprincessprodus%252Ccrbrcarnivalbrandsprodus%3D%2526pid%253Dpcl%25253Acruise_shopping%25253Asearch_results%2526pidt%253D1%2526oid%253D%2525C3%252597%2526oidt%253D3%2526ot%253DSUBMIT; __atuvc=3%7C8; __atuvs=58aced74c6d79c7b000; s_ppvl=pcl%253Acruise_shopping%253Asearch_results%2C13%2C13%2C948%2C1001%2C948%2C1920%2C1080%2C1%2CP; s_ppv=pcl%253Acruise_shopping%253Asearch_results%2C39%2C13%2C2750%2C1001%2C948%2C1920%2C1080%2C1%2CP; s_ppn=pcl%3Acruise_shopping%3Asearch_results; s_nr=1487728009331-Repeat; gds=1487728009331; gds_s=Less%20than%201%20day; s_invisit=true",
-#     'Connection': 'keep-alive',
-#     'Origin': 'http://www.princess.com',
-#     'ADRUM': 'isAjax:true'
-# }
+
 cruises = []
 pool = ThreadPool(2)
 body = 'searchCriteria.subTrades%5B0%5D=&searchCriteria.sortBy=L&searchCriteria.versionB=false&searchCriteria.startDateRange=&searchCriteria.endDateRange=&searchCriteria.searchKey=bb0b9ce2-7ccc-411c-a33c-b4fba3764566&searchCriteria.meta=I&searchCriteria.pastPax=false&searchCriteria.noOfPax=2&searchCriteria.cruiseTour=false&searchCriteria.itineraryCode=&searchCriteria.voyageCode=&searchCriteria.tourCode=&searchCriteria.startIndex=0&searchCriteria.endIndex=440&searchCriteria.positionIndex=0&pageName=searchresult&ubeData.ubeId=PCDIR&searchCriteria.currency=USD&searchCriteria.countryForPrice=BG&searchCriteria.cruiseDetail=false&searchCriteria.shipVersion=&searchCriteria.webDisplay=Y&searchCriteria.applyCoupon=true&searchCriteria.ocean=&searchCriteria.newVersion=false'
-# session.headers.update(headers)
 headers = {
     'Host': 'www.princess.com',
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
@@ -65,6 +53,31 @@ test_headers = {
     'Pragma': 'no-cache',
     'Cache-Control': 'no-cache'
 }
+
+
+def fix_header():
+    chrome_options = Options()
+    chrome_options.add_argument('"--headless"')
+    browser = webdriver.Chrome(executable_path=os.path.abspath('C:\Program Files\Python36\chromedriver'),
+                               chrome_options=chrome_options)
+    browser.get('https://www.princess.com/find/searchResults.do')
+    browser.find_element_by_xpath("//*[@class='expand-table view-all-link util-link plain-text-btn gotham-bold']")
+    WebDriverWait(browser, 10).until(EC.visibility_of_any_elements_located(
+        (By.XPATH, "//*[@class='expand-table view-all-link util-link plain-text-btn gotham-bold']")))
+    browser.find_element_by_xpath(
+        "//*[@class='expand-table view-all-link util-link plain-text-btn gotham-bold']").click()
+    cookies = browser.get_cookies()
+    browser.close()
+    chrome_cookie = ''
+    for c in cookies:
+        chrome_cookie += c['name']
+        chrome_cookie += '='
+        chrome_cookie += c['value']
+        chrome_cookie += "; "
+
+    return chrome_cookie[:-2]
+
+headers['Cookie'] = fix_header()
 url = "https://www.princess.com/find/json/getJsonProducts.do?"
 page = session.get(url)
 missed = []
